@@ -1,12 +1,6 @@
-<script src="./to_time.js" type='text/javascript'></script>
-
 #タクティクスオウガ (Tactics Ogre) Calandar ver 0.1
 ##皇家騎士團2 (賽提基內亞歷) html5 月曆
-<div id='to_calendar' ></div>
-<script type='text/javascript'>
-    var to_calendar=new TacticsOrge_calandar();
-    to_calendar.creat_calandar();
-</script>
+![範例](./Example.png)
 
 心血來潮的產物，以**SFC**時代的TO版本為主將西曆轉換為遊戲內**賽提基內亞歷**
 
