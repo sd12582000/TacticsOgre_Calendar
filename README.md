@@ -35,21 +35,7 @@
 </script>
 ```
 如果不想用預設大小請更改`style` width & height值  
-預設圖檔位置為  
 
--to_time.js  
--IMG  
---圖檔  
-**如果圖檔的位置不再js位置下IMG 更改path**  
-ex:  
-```
-<div id='to_calendar' ></div>
-<script type='text/javascript'>
-    var to_calendar=new TacticsOrge_calandar();
-    to_calendar.path="圖檔所在資料夾"
-    to_calendar.creat_calandar();
-</script>
-```
 最後會產生  
 ```
 <div id="to_calendar" style="width: 158px; height: 168px;">
